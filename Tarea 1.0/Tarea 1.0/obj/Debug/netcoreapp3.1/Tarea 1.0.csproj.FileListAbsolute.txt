@@ -1,0 +1,20 @@
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\bin\Debug\netcoreapp3.1\Tarea 1.0.exe
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\bin\Debug\netcoreapp3.1\Tarea 1.0.deps.json
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\bin\Debug\netcoreapp3.1\Tarea 1.0.runtimeconfig.json
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\bin\Debug\netcoreapp3.1\Tarea 1.0.runtimeconfig.dev.json
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\bin\Debug\netcoreapp3.1\Tarea 1.0.dll
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\bin\Debug\netcoreapp3.1\Tarea 1.0.pdb
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\obj\Debug\netcoreapp3.1\Tarea 1.0.csprojAssemblyReference.cache
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\obj\Debug\netcoreapp3.1\Tarea 1.0.AssemblyInfoInputs.cache
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\obj\Debug\netcoreapp3.1\Tarea 1.0.AssemblyInfo.cs
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\obj\Debug\netcoreapp3.1\Tarea 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\obj\Debug\netcoreapp3.1\Tarea 1.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\obj\Debug\netcoreapp3.1\staticwebassets\Tarea 1.0.StaticWebAssets.Manifest.cache
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\obj\Debug\netcoreapp3.1\staticwebassets\Tarea 1.0.StaticWebAssets.xml
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\obj\Debug\netcoreapp3.1\scopedcss\bundle\Tarea 1.0.styles.css
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\obj\Debug\netcoreapp3.1\Tarea 1.0.RazorTargetAssemblyInfo.cache
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\obj\Debug\netcoreapp3.1\Tarea 1.0.dll
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\obj\Debug\netcoreapp3.1\Tarea 1.0.pdb
+C:\Users\Jor\source\repos\Tarea 1.0\Tarea 1.0\obj\Debug\netcoreapp3.1\Tarea 1.0.genruntimeconfig.cache
